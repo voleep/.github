@@ -23,5 +23,5 @@ Estamos envolvidos em uma série de projetos inovadores, desde sistemas empresar
 
 Se tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato conosco:
 
-- **Site oficial**: [volee.com](https://voleep.com)
+- **Site oficial**: [voleep.com](https://voleep.com)
 - **Email**: contato@voleep.com
