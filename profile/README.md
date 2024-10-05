@@ -1,7 +1,7 @@
 # Voleep
 Criada por [Noah Correa](https://www.linkedin.com/in/noahcorrea)
 
-Bem-vindo ao repositório oficial da **Voleep**, uma empresa dedicada a desenvolver soluções tecnológicas de alta qualidade. Nosso foco está em criar sistemas e aplicativos robustos que proporcionam confiabilidade e alto desempenho. Valorizamos a inovação e buscamos sempre entregar produtos que transformem a experiência de nossos clientes.
+Bem-vindo ao repositório oficial da **Voleep**, um espaço dedicado a desenvolver soluções tecnológicas de alta qualidade. Nosso foco está em criar sistemas e aplicativos robustos que proporcionam confiabilidade e alto desempenho. Valorizamos a inovação e buscamos sempre entregar produtos que transformem a experiência de nossos usuários.
 
 ## Sobre Nós
 
